@@ -18,4 +18,5 @@ Go to the dashboard then to keys and tokens and click in generate in the section
 Ready to use!
 
 Importat information, in the "Respuesta" sections, you need to paste the ID of the twit to response
+
 Important information 2, nowadays it requires elevated access for media upload as it is only possible with twitter api V1
