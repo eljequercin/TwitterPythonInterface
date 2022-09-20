@@ -1,9 +1,7 @@
 # TwitterPythonInterface
-# Required packages tweepy and tkinter
-# Python 3.7+
-Twitter Python Visual Interface to create twits in a different manner
-
-
+## Twitter Python Visual Interface to create twits in a different manner
+Required packages tweepy and tkinter
+Python 3.7+
 
 Once logged in twitter go to: https://developer.twitter.com/en/portal/petition/essential/basic-info and complete your information (important is needed to add a telephone number to your account)
 
